@@ -24,4 +24,4 @@ Sistema desktop para gerenciamento de clientes, produtos, vendas e promoções.
 - Cadastro de categorias
 - Cadastro de promoções
 - Registro de vendas
-- Registro de promoções
+- Tabela de promoções
